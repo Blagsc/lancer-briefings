@@ -5,15 +5,15 @@
 	"defaultTitle": "MSMC |",
 	"icon": "/faction-logos/msmc.svg",
 	"header": {
-		"planet": "Heiligtum-6 'Deep Blue'",
-		"year": "5017u",
-		"system": "Heiligtum",
-		"gate": "Rào Cỏ",
-		"ring": "Annamite",
+		"planet": "Iridesce's Solstice",
+		"year": "20xx",
+		"system": "Genetatia 5",
+		"gate": "Unknown",
+		"ring": "Unknown",
 		"headerTitle": "SILVERLIGHT",
 		"headerSubtitle": "Mercenary Company",
-		"subheaderTitle": "Contract Work",
-		"subheaderSubtitle": "Sierra-Whiskey-Alpha-Golf"
+		"subheaderTitle": "Clearance Level:Actual 2",
+		"subheaderSubtitle": "HOTEL-KILO-YANKEE"
 	},
 	"pilotSpecialInfo": {}
 }
